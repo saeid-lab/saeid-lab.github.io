@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Saeid Lab
 
 You can use the [editor on GitHub](https://github.com/saeid-lab/saeid-lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
